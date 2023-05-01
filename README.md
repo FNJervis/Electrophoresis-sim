@@ -1,2 +1,2 @@
 # Electrophoresis-sim
-Electrical fields and cels simulation
+Electrical fields and cells simulation
